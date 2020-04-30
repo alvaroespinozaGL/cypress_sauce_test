@@ -16,13 +16,15 @@ Follow these steps:
 1- Clone the repository
 
 git clone https://github.com/alvaroespinozaGL/cypress_sauce_test.git
-cd cypress_sauce_test # to move into the repository folder.
+
+cd cypress_sauce_test # to move into the repository folder
+
 npm install  # to install the dependencies that are located in the package.json file.
 
-2- Start Cypress UI.
+2- Start Cypress UI:
+
 npx cypress open
 
-3- Open the IDE and open this repository.
 
 
 # run the automated script you can follow the next steps.
